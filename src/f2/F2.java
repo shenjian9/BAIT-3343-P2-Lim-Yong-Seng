@@ -18,6 +18,7 @@ public class F2 {
         // TODO code application logic here
         System.out.println("First meassge");
         System.out.println("First-branch");
+        Syatem.out.println("first-branch only");
     }
     
 }

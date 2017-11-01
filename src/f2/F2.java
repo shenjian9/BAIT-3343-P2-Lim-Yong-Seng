@@ -16,6 +16,8 @@ public class F2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("First meassge");
+        System.out.println("First-branch");
     }
     
 }
